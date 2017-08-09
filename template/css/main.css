@@ -1,0 +1,71 @@
+#image_view {
+    margin-top: 5px;
+
+}
+
+.table_com {
+    border: 1px solid gainsboro;
+
+}
+
+#red {
+
+    /*color: firebrick;*/
+    border: 1px solid firebrick;
+
+}
+
+/*#start_size,#finish_size,#start_date,#finish_date {*/
+
+    /*color: firebrick;*/
+/*    border: 1px solid firebrick;*/
+
+/*}*/
+
+.warning_false {
+
+    color: firebrick;
+
+}
+
+
+
+
+table.table {
+
+    border: 1px solid gainsboro;
+    margin: auto;
+
+}
+
+#button {
+
+    text-align: center;
+    border: white;
+
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+td {
+    text-align: center; /* Выравниваем текст по центру ячейки */
+}
+
+#name, #comment {
+
+    background-color: #eee;
+
+}
+
+
+
+td {
+    text-align: center; /* Выравниваем текст по центру ячейки */
+}
+
+
+
